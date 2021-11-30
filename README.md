@@ -1,16 +1,16 @@
-# Singleton 
+# Singleton :computer:
 
 
-Options.
+Options. :heavy_exclamation_mark:
 
-- :exclamation: Add Player
-- :exclamation: Remove Player
-- :exclamation: Give Points :smirk:
-- :exclamation: Remove Points
-- :exclamation: :exclamation: View Scores
-- :hankey: Exit
+- :fast_forward: Add Player
+- :fast_forward: Remove Player
+- :fast_forward: Give Points :smirk:
+- :fast_forward: Remove Points
+- :fast_forward: View Scores
+- :fast_forward: Exit
 
-## Install and run
+## Install and run 
 
 
 ```sh
