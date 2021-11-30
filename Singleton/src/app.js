@@ -4,6 +4,6 @@ const msg = require('./helpers/Text');
 
 (async() => {
     msg.CMD('Singleton');
-    let quiestions = await Questions();
-    await console.log(quiestions)
+    let Questions = await Questions();
+    await console.log(Questions)
 })();
