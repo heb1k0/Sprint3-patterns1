@@ -1,5 +1,22 @@
-"# it-Sprint1" 
-"# Sprint3-patterns1" 
-"# Sprint3-patterns1" 
-"# Sprint3-patterns1"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/heb1k0/Sprint3-patterns1.git git push -u origin main
-"# Sprint3-patterns1" 
+# Singleton 
+
+
+Options.
+
+- :exclamation: Add Player
+- :exclamation: Remove Player
+- :exclamation: Give Points :smirk:
+- :exclamation: Remove Points
+- :exclamation: :exclamation: View Scores
+- :hankey: Exit
+
+## Install and run
+
+
+```sh
+cd singleton
+npm i
+npm start
+```
+
+LETS GOOOO
