@@ -37,7 +37,7 @@ class ScoreBoard {
   getScore(name) {
     this.players.forEach((player) => {
       if (player.name === name) {
-        return player.score;
+        console.log(`Player : ${player.name} ---> Score: ${player.score}`);
       }
     });
   }
